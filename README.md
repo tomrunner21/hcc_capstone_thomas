@@ -1,16 +1,17 @@
-<!-- # hcc_capstone_thomas -->
-<!-- capstone for hcc -->
+# hcc_capstone_thomas
 
-<!-- 1. create virtual environment: -->
-<!-- python3 -m venv packages -->
+Capstone for HCC final project - local web player
 
-<!-- 2. activate environment: -->
-<!-- source packages/bin/activate -->
+1. create virtual environment:
+python3 -m venv packages
 
-<!-- 3. install needed packages from requirements.txt -->
-<!-- pip install -r requirements.txt -->
+2. activate environment:
+source packages/bin/activate
 
-<!-- 4. run the program: -->
-<!-- python main.py -->
+3. install needed packages from requirements.txt
+pip install -r requirements.txt
 
-<!-- 5. select the location of the mp3 files in this project under the folder "music_capstone" -->
+4. run the program:
+python main.py
+
+5. select the location of the mp3 files in this project under the folder "music_capstone"
