@@ -58,7 +58,6 @@ class MusicPlayerButtons:
 class MusicPlayerDataLoader:
     def __init__(self):
         pass
-    # You can add methods here to load song data if necessary.
 
 if __name__ == "__main__":
     gui = MusicPlayerGUI()
